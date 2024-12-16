@@ -1,0 +1,289 @@
+{
+  "questions": [
+    {
+      "questionId": 1,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi không cảm thấy buồn ",
+        "Nhiều lúc tôi cảm thấy chán hoặc buồn",
+        "Lúc nào tôi cũng cảm thấy chán hoặc buồn và tôi không thể dừng lại được",
+        "Lúc nào tôi cũng cảm thấy buồn và bất hạnh đến mức hoàn toàn đau khổ",
+        "Tôi rất buồn hoặc rất bất hạnh và khổ sở đến mức không thể chịu được"
+      ],
+      "answers": [0, 1, 2, 2, 3]
+    },
+    {
+      "questionId": 2,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi hoàn toàn không bi quan và nản lòng về tương lai",
+        "Tôi cảm thấy nản lòng về tương lai hơn trước đây",
+        "Tôi cảm thấy mình chẳng có gì mong đợi ở tương lai cả",
+        "Tôi cảm thấy sẽ không bao giờ khắc phục được những điều phiền muộn của tôi",
+        "Tôi cảm thấy tương lai tuyệt vọng và tình hình chỉ có thể tiếp tục xấu đi hoặc không thể cải thiện được"
+      ],
+      "answers": [0, 1, 2, 2, 3]
+    },
+    {
+      "questionId": 3,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi không cảm thấy như bị thất bại",
+        "Tôi thấy mình thất bại nhiều hơn những người khác",
+        "Tôi cảm thấy đã hoàn thành rất ít điều đáng giá hoặc đã hoàn thành rất ít điều có ý nghĩa",
+        "Nhìn lại cuộc đời, tôi thấy mình đã có quá nhiều thất bại",
+        "Tôi cảm thấy mình là một người hoàn toàn thất bại",
+        "Tôi tự cảm thấy hoàn toàn thất bại trong vai trò của tôi (bố, mẹ, chồng, vợ…)"
+      ],
+      "answers": [0, 1, 2, 2, 3, 3]
+    },
+    {
+      "questionId": 4,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi hoàn toàn không bất mãn",
+        "Tôi còn thích thú với những điều mà trước đây tôi vẫn thường ưa thích",
+        "Tôi luôn luôn cảm thấy buồn",
+        "Tôi ít thấy thích những điều mà tôi vẫn thường ưa thích trước đây",
+        "Tôi không thõa mãn về bất kỳ cái gì nữa",
+        "Tôi rất ít thích thú về những điều trước đây tôi vẫn thường ưa thích",
+        "Tôi không còn chút thích thú nào nữa",
+        "Tôi không hài lòng với mọi cái"
+      ],
+      "answers": [0, 0, 1, 1, 2, 2, 3, 3]
+    },
+    {
+      "questionId": 5,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi hoàn toàn không cảm thấy có tội lỗi gì ghê gớm cả",
+        "Phần nhiều những việc tôi đã làm tôi đều cảm thấy có tội",
+        "Phần lớn thời gian tôi cảm thấy mình tồi hoặc không xứng đáng",
+        "Tôi cảm thấy mình hoàn toàn có tội",
+        "Giờ đây tôi luôn cảm thấy trên thực tế mình tồi hoặc không xứng đáng",
+        "Lúc nào tôi cũng cảm thấy mình có tội",
+        "Tôi cảm thấy như là tôi rất tồi hoặc vô dụng"
+      ],
+      "answers": [0, 1, 1, 2, 2, 3, 3]
+    },
+    {
+      "questionId": 6,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi không cảm thấy đang bị trừng phạt",
+        "Tôi cảm thấy có thể mình sẽ bị trừng phạt",
+        "Tôi cảm thấy một cái gì xấu có thể đến với tôi",
+        "Tôi mong chờ bị trừng phạt",
+        "Tôi cảm thấy mình sẽ bị trừng phạt",
+        "Tôi cảm thấy mình đang bị trừng phạt",
+        "Tôi muốn bị trừng phạt"
+      ],
+      "answers": [0, 1, 1, 2, 2, 3, 3]
+    },
+    {
+      "questionId": 7,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi thấy bản thân mình vẫn như trước kia hoặc tôi không cảm thấy thất vọng với bản thân",
+        "Tôi thất vọng với bản thân, tôi không còn tin tưởng vào bản thân hoặc tôi không thích bản thân",
+        "Tôi thất vọng với bản thân hoặc tôi ghê tởm bản thân",
+        "Tôi ghét bản thân mình hoặc tôi căm thù bản thân"
+      ],
+      "answers": [0, 1, 2, 3]
+    },
+    {
+      "questionId": 8,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi không phê phán hoặc đổ lỗi cho bản thân hơn trước kia",
+        "Tôi không tự cảm thấy một chút nào xấu hơn bất kể ai",
+        "Tôi phê phán bản thân mình nhiều hơn trước kia",
+        "Tôi tự chê mình về sự yếu đuối và lỗi lầm của bản thân",
+        "Tôi phê phán bản thân về tất cả những lỗi lầm của mình",
+        "Tôi khiển trách mình vì những lỗi lầm của bản thân",
+        "Tôi đổ lỗi cho bản thân về tất cả mọi điều tồi tệ xảy ra",
+        "Tôi khiển trách mình về mọi điều xấu xảy đến"
+      ],
+      "answers": [0, 0, 1, 1, 2, 2, 3, 3]
+    },
+    {
+      "questionId": 9,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi không có ý nghĩ tự sát",
+        "Tôi không có bất kỳ ý nghĩ gì làm tổn hại bản thân",
+        "Tôi có ý nghĩ tự sát nhưng không thực hiện",
+        "Tôi có những ý nghĩ làm tổn hại bản thân nhưng tôi thường không thực hiện chúng",
+        "Tôi muốn tự sát",
+        "Tôi cảm thấy giá mà tôi chết thì tốt hơn",
+        "Tôi cảm thấy gia đình tôi sẽ tốt hơn nếu tôi chết",
+        "Tôi có dự định rõ ràng để tự sát",
+        "Nếu có cơ hội tôi sẽ tự sát"
+      ],
+      "answers": [0, 0, 1, 1, 2, 2, 2, 2, 3]
+    },
+    {
+      "questionId": 10,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi không khóc nhiều hơn trước kia",
+        "Hiện nay tôi hay khóc nhiều hơn trước",
+        "Tôi thường khóc vì những điều nhỏ nhặt",
+        "Hiện tại tôi luôn luôn khóc, tôi không thể dừng được",
+        "Tôi cảm thấy muốn khóc nhưng không thể khóc được",
+        "Trước đây thỉnh thoảng tôi vẫn khóc, nhưng hiện tại tôi không thể khóc được chút nào mặc dù tôi muốn khóc"
+      ],
+      "answers": [0, 1, 2, 2, 3, 3]
+    },
+    {
+      "questionId": 11,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi không dễ bồn chồn và căng thẳng hơn thường lệ",
+        "Hiện nay tôi không dễ bị kích thích hơn trước",
+        "Tôi cảm thấy dễ bồn chồn và căng thẳng hơn thường lệ",
+        "Tôi bực mình hoặc phát cáu dễ dàng hơn trước",
+        "Tôi cảm thấy bồn chồn và căng thẳng đến mức khó có thể ngồi yên được",
+        "Tôi luôn luôn cảm thấy dễ phát cáu",
+        "Tôi thấy rất bồn chồn và kích động đến mức phải đi lại liên tục hoặc làm việc gì đó"
+      ],
+      "answers": [0, 0, 1, 1, 2, 2, 3]
+    },
+    {
+      "questionId": 12,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi không mất sự quan tâm đến những người xung quanh hoặc các hoạt động khác",
+        "Tôi ít quan tâm đến mọi người, mọi việc xung quanh hơn trước",
+        "Tôi mất hầu hết sự quan tâm đến mọi người, mọi việc xung quanh và ít có cảm tình với họ",
+        "Tôi không còn quan tâm đến bất kỳ điều gì nữa",
+        "Tôi hoàn toàn không còn quan tâm đến người khác và không cần đến họ chút nào"
+      ],
+      "answers": [0, 1, 2, 3, 3]
+    },
+    {
+      "questionId": 13,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi quyết định mọi việc cũng tốt như trước",
+        "Tôi thấy khó quyết định mọi việc hơn trước",
+        "Tôi thấy khó quyết định mọi việc hơn trước rất nhiều",
+        "Không có sự giúp đỡ, tôi không thể quyết định gì được nữa",
+        "Tôi chẳng còn có thể quyết định được việc gì nữa"
+      ],
+      "answers": [0, 1, 2, 2, 3]
+    },
+    {
+      "questionId": 14,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi không cảm thấy mình là người vô dụng",
+        "Tôi không cảm thấy tôi xấu hơn trước chút nào",
+        "Tôi không cho rằng mình có giá trị và có ích như trước kia",
+        "Tôi buồn phiền là tôi trông như già hoặc không hấp dẫn",
+        "Tôi cảm thấy mình vô dụng hơn so với những người xung quanh",
+        "Tôi cảm thấy có những thay đổi trong diện mạo làm cho tôi có vẻ không hấp dẫn",
+        "Tôi thấy mình là người hoàn toàn vô dụng",
+        "Tôi cảm thấy tôi có vẻ xấu xí hoặc ghê tởm"
+      ],
+      "answers": [0, 0, 1, 1, 2, 2, 3, 3]
+    },
+    {
+      "questionId": 15,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi thấy mình vẫn tràn đầy sức lực như trước đây",
+        "Sức lực của tôi kém hơn trước hoặc tôi không làm việc tốt như trước",
+        "Tôi phải cố gắng để có thể khơỉ động làm một việc gì",
+        "Tôi không đủ sức lực để làm được nhiều việc nữa",
+        "Tôi phải cố gắng hết sức để làm một việc gì",
+        "Tôi không đủ sức lực để làm được bất cứ việc gì nữa",
+        "Tôi hoàn toàn không thể làm một việc gì cả"
+      ],
+      "answers": [0, 1, 1, 2, 2, 3, 3]
+    },
+    {
+      "questionId": 16,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Không thấy có chút thay đổi gì trong giấc ngủ của tôi",
+        "Tôi ngủ hơi nhiều hơn trước",
+        "Tôi ngủ hơi ít hơn trước",
+        "Tôi ngủ nhiều hơn trước",
+        "Tôi ngủ ít hơn trước",
+        "Tôi ngủ hầu như suốt cả ngày",
+        "Tôi thức dậy 1 - 2 giờ sớm hơn trước và không thể ngủ lại được"
+      ],
+      "answers": [0, 1, 1, 2, 2, 3, 3]
+    },
+    {
+      "questionId": 17,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi không dễ cáu kỉnh và bực bội hơn trước",
+        "Tôi làm việc không mệt hơn trước một chút nào",
+        "Tôi dễ cáu kỉnh và bực bội hơn trước",
+        "Tôi làm việc dễ mệt hơn trước",
+        "Tôi dễ cáu kỉnh và bực bội hơn trước rất nhiều",
+        "Làm bất cứ việc gì tôi cũng mệt",
+        "Lúc nào tôi cũng dễ cáu kỉnh và bực bội",
+        "Làm bất cứ việc gì tôi cũng quá mệt"
+      ],
+      "answers": [0, 0, 1, 1, 2, 2, 3, 3]
+    },
+    {
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi ăn vẫn ngon miệng như trước",
+        "Tôi ăn kém ngon miệng hơn trước",
+        "Tôi ăn ngon miệng hơn trước",
+        "Tôi ăn kém ngon miệng hơn trước rất nhiều",
+        "Tôi ăn ngon miệng hơn trước rất nhiều",
+        "Tôi không thấy ngon miệng một chút nào cả",
+        "Lúc nào tôi cũng thấy thèm ăn"
+      ],
+      "answers": [0, 1, 1, 2, 2, 3, 3]
+    },
+    {
+      "questionId": 19,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi có thể tập trung chú ý tốt như trước",
+        "Gần đây tôi không sút cân chút nào",
+        "Tôi không thể tập trung chú ý được như trước",
+        "Tôi bị sút cân trên 2 Kg",
+        "Tôi thấy khó tập trung chú ý lâu được vào bất kỳ điều gì",
+        "Tôi bị sút cân trên 4 kg",
+        "Tôi thấy mình không thể tập trung chú ý được vào bất kỳ điều gì nữa",
+        "Tôi bị sút cân trên 6 kg"
+      ],
+      "answers": [0, 0, 1, 1, 2, 2, 3, 3]
+    },
+    {
+      "questionId": 20,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi không mệt mỏi hơn trước",
+        "Tôi không lo lắng về sức khỏe hơn trước",
+        "Tôi dễ mệt mỏi hơn trước",
+        "Tôi có lo lắng về những đau đớn hoặc những khó chịu ở dạ dày hoặc táo bón và những cảm giác của cơ thể",
+        "Hầu như làm bất kỳ việc gì tôi cũng thấy mệt mỏi",
+        "Tôi quá lo lắng về sức khỏe của tôi, tôi cảm thấy thế nào và điều gì đó đến nổi tôi rất khó suy nghĩ gì thêm nữa",
+        "Tôi quá mệt mỏi khi làm bất kỳ việc gì",
+        "Tôi hoàn toàn bị thu hút vào những cảm giác của tôi"
+      ],
+      "answers": [0, 0, 1, 1, 2, 2, 3, 3]
+    },
+    {
+      "questionId": 21,
+      "question": "Hãy chọn 1 ý đúng nhất với bản thân",
+      "options": [
+        "Tôi không thấy có thay đổi gì trong hứng thú tình dục",
+        "Tôi ít hứng thú với tình dục hơn trước",
+        "Hiện nay tôi rất ít hứng thú với tình dục",
+        "Tôi hoàn toàn mất hứng thú tình dục"
+      ],
+      "answers": [0, 1, 2, 3]
+    }
+  ]
+}
